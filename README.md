@@ -159,6 +159,59 @@ Azure Storage services empower you to perform a wide range of data storage and m
 <img width="953" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/e933cf53-4fc1-4946-b19c-bbbe91ab95a6">
 
 
+# 3. Azure Machine Learning
+Azure Machine Learning, often abbreviated as AML, is a cloud-based service from Microsoft designed to help you build, deploy, and manage machine learning models. It's aimed at both data scientists and developers, offering features for different experience levels.
+
+<img width="913" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/0563f48a-3f1b-4d8b-96b1-6e7349362293">
+
+
+## Azure Machine Learning usage
+1. Build and train machine learning models 
+2. Experiment and iterate on models
+3. Manage the machine learning lifecycle (MLOps) (for data scientists and ML engineers)
+4. Use automated machine learning for simpler model creation
+5. Deploy models into applications and services
+6. Integrate with pre-built machine learning services (for business users and developers)
+
+## Configuration
+### The process of building a regression model to predict automobile prices using Azure Machine Learning Designer.
+
+
+ #### Workspace:
+This is the central workspace in Azure Machine Learning that stores your projects, experiments, models, and other resources. You'll need to create or connect to an existing workspace.
+
+<img width="947" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/7af8381a-5b6c-4d8c-a10d-c5dddde1e5aa">
+
+#### Compute Target:
+This specifies the environment where your machine learning tasks will run. AML offers various options like Azure VMs, Azure Machine Learning compute clusters, or even your local machine. You'll configure the type, size, and other details of the compute target.
+
+<img width="938" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/2e9446a4-4f88-4978-8e43-0fb3ab4dc72e">
+
+
+
+#### Environment: 
+This defines the software dependencies needed for your training scripts. You can create an environment with specific Python packages and libraries required for your machine learning project.
+
+<img width="956" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/b43aeb0b-8229-4da5-92b3-3d932adc51fc">
+
+#### Datasets: 
+You'll configure how AML accesses your training data. This could involve referencing data stored in Azure Blob Storage, Data Lake Storage, or other supported data sources.
+
+<img width="703" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/0872d307-ce1c-45b2-9a02-fc07f90a10c9">
+
+
+#### Training Script:
+This is the Python script that defines the training logic for your machine learning model. You might configure parameters or specific settings within the script itself.
+
+<img width="959" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/ef87487d-d53f-4bb1-94c1-90b58c3866b6">
+
+Model Deployment: You can configure how your trained model is deployed to production. This might involve setting up a web service or integrating the model into an application.
+
+
+<img width="952" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/3c93544d-b6b3-4481-9fb9-e7d60ea00c9d">
+
+   
+
 
 
 
