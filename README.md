@@ -211,7 +211,10 @@ Model Deployment: You can configure how your trained model is deployed to produc
 <img width="952" alt="image" src="https://github.com/Alpha-Soumen/FRTPROJECT/assets/156820375/3c93544d-b6b3-4481-9fb9-e7d60ea00c9d">
 
    
+## 👨‍💻 Developed by
 
+* **Soumen Bhunia**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/soumen-bhunia/)
 
 
 
